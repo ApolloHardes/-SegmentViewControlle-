@@ -2,8 +2,8 @@
 //  _______Tests.m
 //  实用的分页滑动Tests
 //
-//  Created by 康宸 on 17/6/14.
-//  Copyright © 2017年 康宸. All rights reserved.
+//  Created by Apollo on 17/6/14.
+//  Copyright © 2017年 Apollo. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>

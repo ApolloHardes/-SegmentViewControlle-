@@ -2,12 +2,12 @@
 //  AppDelegate.m
 //  实用的分页滑动
 //
-//  Created by 康宸 on 17/6/14.
-//  Copyright © 2017年 康宸. All rights reserved.
+//  Created by Apollo on 17/6/14.
+//  Copyright © 2017年 Apollo. All rights reserved.
 //
 
 #import "AppDelegate.h"
-
+#import "ViewController.h"
 @interface AppDelegate ()
 
 @end
@@ -17,6 +17,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    _window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    _window.backgroundColor = [UIColor whiteColor];
+    UINavigationController *fourthNC = [[UINavigationController alloc] initWithRootViewController:[[ViewController alloc] init]];
+    self.window.rootViewController = fourthNC;
+    [self.window makeKeyWindow];
     return YES;
 }
 

@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  AnnouncementCell.h
 //  实用的分页滑动
 //
 //  Created by Apollo on 17/6/14.
@@ -7,11 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
-
+@class NoticeModel;
+@interface AnnouncementCell : UITableViewCell
+@property (nonatomic, copy) NoticeModel *model;
 @end
-

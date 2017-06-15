@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  LeftRightViewController.h
 //  实用的分页滑动
 //
 //  Created by Apollo on 17/6/14.
@@ -8,10 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface LeftRightViewController : UIViewController
 
 @end
-

@@ -15,6 +15,32 @@
 		610A48361EF1073500C45BEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 610A48341EF1073500C45BEB /* LaunchScreen.storyboard */; };
 		610A48411EF1073500C45BEB /* _______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A48401EF1073500C45BEB /* _______Tests.m */; };
 		610A484C1EF1073500C45BEB /* _______UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A484B1EF1073500C45BEB /* _______UITests.m */; };
+		610A485A1EF108D200C45BEB /* Property List.plist in Resources */ = {isa = PBXBuildFile; fileRef = 610A48591EF108D200C45BEB /* Property List.plist */; };
+		610A485D1EF10F4F00C45BEB /* ScroOneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A485C1EF10F4F00C45BEB /* ScroOneViewController.m */; };
+		610A48601EF10FCA00C45BEB /* ScroTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A485F1EF10FCA00C45BEB /* ScroTwoViewController.m */; };
+		610A48621EF118DC00C45BEB /* 首页-渐变_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 610A48611EF118DC00C45BEB /* 首页-渐变_01.png */; };
+		610A48651EF11DAA00C45BEB /* SegmentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A48641EF11DAA00C45BEB /* SegmentViewController.m */; };
+		610A48681EF120A900C45BEB /* NoticeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A48671EF120A900C45BEB /* NoticeModel.m */; };
+		610A48801EF12D0B00C45BEB /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 610A48691EF12D0B00C45BEB /* Info.plist */; };
+		610A48811EF12D0B00C45BEB /* MJExtensionConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A486C1EF12D0B00C45BEB /* MJExtensionConst.m */; };
+		610A48821EF12D0B00C45BEB /* MJFoundation.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A486E1EF12D0B00C45BEB /* MJFoundation.m */; };
+		610A48831EF12D0B00C45BEB /* MJProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A48701EF12D0B00C45BEB /* MJProperty.m */; };
+		610A48841EF12D0B00C45BEB /* MJPropertyKey.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A48721EF12D0B00C45BEB /* MJPropertyKey.m */; };
+		610A48851EF12D0B00C45BEB /* MJPropertyType.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A48741EF12D0B00C45BEB /* MJPropertyType.m */; };
+		610A48861EF12D0B00C45BEB /* NSObject+MJClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A48761EF12D0B00C45BEB /* NSObject+MJClass.m */; };
+		610A48871EF12D0B00C45BEB /* NSObject+MJCoding.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A48781EF12D0B00C45BEB /* NSObject+MJCoding.m */; };
+		610A48881EF12D0B00C45BEB /* NSObject+MJKeyValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A487A1EF12D0B00C45BEB /* NSObject+MJKeyValue.m */; };
+		610A48891EF12D0B00C45BEB /* NSObject+MJProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A487C1EF12D0B00C45BEB /* NSObject+MJProperty.m */; };
+		610A488A1EF12D0B00C45BEB /* NSString+MJExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A487E1EF12D0B00C45BEB /* NSString+MJExtension.m */; };
+		610A488F1EF12F5F00C45BEB /* AnnouncementCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A488D1EF12F5F00C45BEB /* AnnouncementCell.m */; };
+		610A48901EF12F5F00C45BEB /* AnnouncementCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 610A488E1EF12F5F00C45BEB /* AnnouncementCell.xib */; };
+		610A48941EF1329A00C45BEB /* NSDate+LCExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A48931EF1329A00C45BEB /* NSDate+LCExtend.m */; };
+		610A48971EF1384700C45BEB /* 链接 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 610A48951EF1384700C45BEB /* 链接 (1).png */; };
+		610A48981EF1384700C45BEB /* 文章.png in Resources */ = {isa = PBXBuildFile; fileRef = 610A48961EF1384700C45BEB /* 文章.png */; };
+		610A489C1EF138E600C45BEB /* LeftRightViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 610A489B1EF138E600C45BEB /* LeftRightViewController.m */; };
+		615084F31EF2316300984342 /* UpButtomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 615084F21EF2316300984342 /* UpButtomViewController.m */; };
+		615084F61EF254A500984342 /* Button白色.png in Resources */ = {isa = PBXBuildFile; fileRef = 615084F41EF254A500984342 /* Button白色.png */; };
+		615084F71EF254A600984342 /* Button灰色.png in Resources */ = {isa = PBXBuildFile; fileRef = 615084F51EF254A500984342 /* Button灰色.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +77,51 @@
 		610A48471EF1073500C45BEB /* 实用的分页滑动UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "实用的分页滑动UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		610A484B1EF1073500C45BEB /* _______UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_______UITests.m"; sourceTree = "<group>"; };
 		610A484D1EF1073500C45BEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		610A48591EF108D200C45BEB /* Property List.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Property List.plist"; sourceTree = "<group>"; };
+		610A485B1EF10F4F00C45BEB /* ScroOneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScroOneViewController.h; sourceTree = "<group>"; };
+		610A485C1EF10F4F00C45BEB /* ScroOneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScroOneViewController.m; sourceTree = "<group>"; };
+		610A485E1EF10FCA00C45BEB /* ScroTwoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScroTwoViewController.h; sourceTree = "<group>"; };
+		610A485F1EF10FCA00C45BEB /* ScroTwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScroTwoViewController.m; sourceTree = "<group>"; };
+		610A48611EF118DC00C45BEB /* 首页-渐变_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "首页-渐变_01.png"; sourceTree = "<group>"; };
+		610A48631EF11DAA00C45BEB /* SegmentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SegmentViewController.h; sourceTree = "<group>"; };
+		610A48641EF11DAA00C45BEB /* SegmentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SegmentViewController.m; sourceTree = "<group>"; };
+		610A48661EF120A900C45BEB /* NoticeModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NoticeModel.h; sourceTree = "<group>"; };
+		610A48671EF120A900C45BEB /* NoticeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NoticeModel.m; sourceTree = "<group>"; };
+		610A48691EF12D0B00C45BEB /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		610A486A1EF12D0B00C45BEB /* MJExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJExtension.h; sourceTree = "<group>"; };
+		610A486B1EF12D0B00C45BEB /* MJExtensionConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJExtensionConst.h; sourceTree = "<group>"; };
+		610A486C1EF12D0B00C45BEB /* MJExtensionConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJExtensionConst.m; sourceTree = "<group>"; };
+		610A486D1EF12D0B00C45BEB /* MJFoundation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJFoundation.h; sourceTree = "<group>"; };
+		610A486E1EF12D0B00C45BEB /* MJFoundation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJFoundation.m; sourceTree = "<group>"; };
+		610A486F1EF12D0B00C45BEB /* MJProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJProperty.h; sourceTree = "<group>"; };
+		610A48701EF12D0B00C45BEB /* MJProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJProperty.m; sourceTree = "<group>"; };
+		610A48711EF12D0B00C45BEB /* MJPropertyKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJPropertyKey.h; sourceTree = "<group>"; };
+		610A48721EF12D0B00C45BEB /* MJPropertyKey.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJPropertyKey.m; sourceTree = "<group>"; };
+		610A48731EF12D0B00C45BEB /* MJPropertyType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJPropertyType.h; sourceTree = "<group>"; };
+		610A48741EF12D0B00C45BEB /* MJPropertyType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJPropertyType.m; sourceTree = "<group>"; };
+		610A48751EF12D0B00C45BEB /* NSObject+MJClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+MJClass.h"; sourceTree = "<group>"; };
+		610A48761EF12D0B00C45BEB /* NSObject+MJClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+MJClass.m"; sourceTree = "<group>"; };
+		610A48771EF12D0B00C45BEB /* NSObject+MJCoding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+MJCoding.h"; sourceTree = "<group>"; };
+		610A48781EF12D0B00C45BEB /* NSObject+MJCoding.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+MJCoding.m"; sourceTree = "<group>"; };
+		610A48791EF12D0B00C45BEB /* NSObject+MJKeyValue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+MJKeyValue.h"; sourceTree = "<group>"; };
+		610A487A1EF12D0B00C45BEB /* NSObject+MJKeyValue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+MJKeyValue.m"; sourceTree = "<group>"; };
+		610A487B1EF12D0B00C45BEB /* NSObject+MJProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+MJProperty.h"; sourceTree = "<group>"; };
+		610A487C1EF12D0B00C45BEB /* NSObject+MJProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+MJProperty.m"; sourceTree = "<group>"; };
+		610A487D1EF12D0B00C45BEB /* NSString+MJExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+MJExtension.h"; sourceTree = "<group>"; };
+		610A487E1EF12D0B00C45BEB /* NSString+MJExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+MJExtension.m"; sourceTree = "<group>"; };
+		610A488C1EF12F5F00C45BEB /* AnnouncementCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnnouncementCell.h; sourceTree = "<group>"; };
+		610A488D1EF12F5F00C45BEB /* AnnouncementCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnnouncementCell.m; sourceTree = "<group>"; };
+		610A488E1EF12F5F00C45BEB /* AnnouncementCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AnnouncementCell.xib; sourceTree = "<group>"; };
+		610A48921EF1329A00C45BEB /* NSDate+LCExtend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+LCExtend.h"; sourceTree = "<group>"; };
+		610A48931EF1329A00C45BEB /* NSDate+LCExtend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+LCExtend.m"; sourceTree = "<group>"; };
+		610A48951EF1384700C45BEB /* 链接 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "链接 (1).png"; sourceTree = "<group>"; };
+		610A48961EF1384700C45BEB /* 文章.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "文章.png"; sourceTree = "<group>"; };
+		610A489A1EF138E600C45BEB /* LeftRightViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeftRightViewController.h; sourceTree = "<group>"; };
+		610A489B1EF138E600C45BEB /* LeftRightViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftRightViewController.m; sourceTree = "<group>"; };
+		615084F11EF2316300984342 /* UpButtomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UpButtomViewController.h; sourceTree = "<group>"; };
+		615084F21EF2316300984342 /* UpButtomViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UpButtomViewController.m; sourceTree = "<group>"; };
+		615084F41EF254A500984342 /* Button白色.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button白色.png"; sourceTree = "<group>"; };
+		615084F51EF254A500984342 /* Button灰色.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button灰色.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,15 +172,26 @@
 		610A48251EF1073500C45BEB /* 实用的分页滑动 */ = {
 			isa = PBXGroup;
 			children = (
+				615084F01EF2312B00984342 /* 上下滑动界面 */,
+				610A48991EF1389B00C45BEB /* 左右滑动界面 */,
+				610A489D1EF13E0300C45BEB /* Model */,
+				610A48911EF1328200C45BEB /* extern */,
+				610A488B1EF12EC300C45BEB /* View */,
+				610A487F1EF12D0B00C45BEB /* MJExtension */,
 				610A48291EF1073500C45BEB /* AppDelegate.h */,
 				610A482A1EF1073500C45BEB /* AppDelegate.m */,
 				610A482C1EF1073500C45BEB /* ViewController.h */,
 				610A482D1EF1073500C45BEB /* ViewController.m */,
+				610A48631EF11DAA00C45BEB /* SegmentViewController.h */,
+				610A48641EF11DAA00C45BEB /* SegmentViewController.m */,
+				615084F41EF254A500984342 /* Button白色.png */,
+				615084F51EF254A500984342 /* Button灰色.png */,
 				610A482F1EF1073500C45BEB /* Main.storyboard */,
 				610A48321EF1073500C45BEB /* Assets.xcassets */,
 				610A48341EF1073500C45BEB /* LaunchScreen.storyboard */,
 				610A48371EF1073500C45BEB /* Info.plist */,
 				610A48261EF1073500C45BEB /* Supporting Files */,
+				610A48591EF108D200C45BEB /* Property List.plist */,
 			);
 			path = "实用的分页滑动";
 			sourceTree = "<group>";
@@ -117,6 +199,9 @@
 		610A48261EF1073500C45BEB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				610A48951EF1384700C45BEB /* 链接 (1).png */,
+				610A48961EF1384700C45BEB /* 文章.png */,
+				610A48611EF118DC00C45BEB /* 首页-渐变_01.png */,
 				610A48271EF1073500C45BEB /* main.m */,
 			);
 			name = "Supporting Files";
@@ -138,6 +223,86 @@
 				610A484D1EF1073500C45BEB /* Info.plist */,
 			);
 			path = "实用的分页滑动UITests";
+			sourceTree = "<group>";
+		};
+		610A487F1EF12D0B00C45BEB /* MJExtension */ = {
+			isa = PBXGroup;
+			children = (
+				610A48691EF12D0B00C45BEB /* Info.plist */,
+				610A486A1EF12D0B00C45BEB /* MJExtension.h */,
+				610A486B1EF12D0B00C45BEB /* MJExtensionConst.h */,
+				610A486C1EF12D0B00C45BEB /* MJExtensionConst.m */,
+				610A486D1EF12D0B00C45BEB /* MJFoundation.h */,
+				610A486E1EF12D0B00C45BEB /* MJFoundation.m */,
+				610A486F1EF12D0B00C45BEB /* MJProperty.h */,
+				610A48701EF12D0B00C45BEB /* MJProperty.m */,
+				610A48711EF12D0B00C45BEB /* MJPropertyKey.h */,
+				610A48721EF12D0B00C45BEB /* MJPropertyKey.m */,
+				610A48731EF12D0B00C45BEB /* MJPropertyType.h */,
+				610A48741EF12D0B00C45BEB /* MJPropertyType.m */,
+				610A48751EF12D0B00C45BEB /* NSObject+MJClass.h */,
+				610A48761EF12D0B00C45BEB /* NSObject+MJClass.m */,
+				610A48771EF12D0B00C45BEB /* NSObject+MJCoding.h */,
+				610A48781EF12D0B00C45BEB /* NSObject+MJCoding.m */,
+				610A48791EF12D0B00C45BEB /* NSObject+MJKeyValue.h */,
+				610A487A1EF12D0B00C45BEB /* NSObject+MJKeyValue.m */,
+				610A487B1EF12D0B00C45BEB /* NSObject+MJProperty.h */,
+				610A487C1EF12D0B00C45BEB /* NSObject+MJProperty.m */,
+				610A487D1EF12D0B00C45BEB /* NSString+MJExtension.h */,
+				610A487E1EF12D0B00C45BEB /* NSString+MJExtension.m */,
+			);
+			name = MJExtension;
+			path = ../../Primary/Primary/3rd/MJExtension;
+			sourceTree = "<group>";
+		};
+		610A488B1EF12EC300C45BEB /* View */ = {
+			isa = PBXGroup;
+			children = (
+				610A488C1EF12F5F00C45BEB /* AnnouncementCell.h */,
+				610A488D1EF12F5F00C45BEB /* AnnouncementCell.m */,
+				610A488E1EF12F5F00C45BEB /* AnnouncementCell.xib */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		610A48911EF1328200C45BEB /* extern */ = {
+			isa = PBXGroup;
+			children = (
+				610A48921EF1329A00C45BEB /* NSDate+LCExtend.h */,
+				610A48931EF1329A00C45BEB /* NSDate+LCExtend.m */,
+			);
+			name = extern;
+			sourceTree = "<group>";
+		};
+		610A48991EF1389B00C45BEB /* 左右滑动界面 */ = {
+			isa = PBXGroup;
+			children = (
+				610A489A1EF138E600C45BEB /* LeftRightViewController.h */,
+				610A489B1EF138E600C45BEB /* LeftRightViewController.m */,
+				610A485B1EF10F4F00C45BEB /* ScroOneViewController.h */,
+				610A485C1EF10F4F00C45BEB /* ScroOneViewController.m */,
+			);
+			name = "左右滑动界面";
+			sourceTree = "<group>";
+		};
+		610A489D1EF13E0300C45BEB /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				610A48661EF120A900C45BEB /* NoticeModel.h */,
+				610A48671EF120A900C45BEB /* NoticeModel.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		615084F01EF2312B00984342 /* 上下滑动界面 */ = {
+			isa = PBXGroup;
+			children = (
+				615084F11EF2316300984342 /* UpButtomViewController.h */,
+				615084F21EF2316300984342 /* UpButtomViewController.m */,
+				610A485E1EF10FCA00C45BEB /* ScroTwoViewController.h */,
+				610A485F1EF10FCA00C45BEB /* ScroTwoViewController.m */,
+			);
+			name = "上下滑动界面";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -203,7 +368,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0820;
-				ORGANIZATIONNAME = "康宸";
+				ORGANIZATIONNAME = Apollo;
 				TargetAttributes = {
 					610A48221EF1073500C45BEB = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -246,9 +411,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				610A48901EF12F5F00C45BEB /* AnnouncementCell.xib in Resources */,
+				615084F71EF254A600984342 /* Button灰色.png in Resources */,
 				610A48361EF1073500C45BEB /* LaunchScreen.storyboard in Resources */,
+				610A48971EF1384700C45BEB /* 链接 (1).png in Resources */,
 				610A48331EF1073500C45BEB /* Assets.xcassets in Resources */,
+				615084F61EF254A500984342 /* Button白色.png in Resources */,
+				610A48801EF12D0B00C45BEB /* Info.plist in Resources */,
+				610A485A1EF108D200C45BEB /* Property List.plist in Resources */,
+				610A48621EF118DC00C45BEB /* 首页-渐变_01.png in Resources */,
 				610A48311EF1073500C45BEB /* Main.storyboard in Resources */,
+				610A48981EF1384700C45BEB /* 文章.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,9 +446,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				610A48871EF12D0B00C45BEB /* NSObject+MJCoding.m in Sources */,
+				610A48811EF12D0B00C45BEB /* MJExtensionConst.m in Sources */,
+				610A48861EF12D0B00C45BEB /* NSObject+MJClass.m in Sources */,
+				610A48841EF12D0B00C45BEB /* MJPropertyKey.m in Sources */,
+				610A48651EF11DAA00C45BEB /* SegmentViewController.m in Sources */,
 				610A482E1EF1073500C45BEB /* ViewController.m in Sources */,
+				610A48941EF1329A00C45BEB /* NSDate+LCExtend.m in Sources */,
+				610A48831EF12D0B00C45BEB /* MJProperty.m in Sources */,
+				610A48821EF12D0B00C45BEB /* MJFoundation.m in Sources */,
 				610A482B1EF1073500C45BEB /* AppDelegate.m in Sources */,
+				610A485D1EF10F4F00C45BEB /* ScroOneViewController.m in Sources */,
+				610A48601EF10FCA00C45BEB /* ScroTwoViewController.m in Sources */,
+				610A489C1EF138E600C45BEB /* LeftRightViewController.m in Sources */,
+				610A48851EF12D0B00C45BEB /* MJPropertyType.m in Sources */,
 				610A48281EF1073500C45BEB /* main.m in Sources */,
+				610A48881EF12D0B00C45BEB /* NSObject+MJKeyValue.m in Sources */,
+				610A488F1EF12F5F00C45BEB /* AnnouncementCell.m in Sources */,
+				615084F31EF2316300984342 /* UpButtomViewController.m in Sources */,
+				610A488A1EF12D0B00C45BEB /* NSString+MJExtension.m in Sources */,
+				610A48681EF120A900C45BEB /* NoticeModel.m in Sources */,
+				610A48891EF12D0B00C45BEB /* NSObject+MJProperty.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +698,7 @@
 				610A48521EF1073500C45BEB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		610A48531EF1073500C45BEB /* Build configuration list for PBXNativeTarget "实用的分页滑动Tests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +707,7 @@
 				610A48551EF1073500C45BEB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		610A48561EF1073500C45BEB /* Build configuration list for PBXNativeTarget "实用的分页滑动UITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +716,7 @@
 				610A48581EF1073500C45BEB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
